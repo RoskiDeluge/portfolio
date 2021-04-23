@@ -24,5 +24,6 @@ But one of the things I most admired about him is that he didn’t romanticize h
 
 For me, as for many of his students, professor Lester was the model teacher. But above all, to this young man who in his words “labored under the burden of great potential,” he symbolized a path. He made me realize that the path wouldn’t get walked unless it was started where it began. As I’ve been discovering, the true gift he game me was encouragement to get on the healing path, and the courage to start again there slowly, lovingly attending to the heart’s dictates.
 
-Reading:\
+Reading:
+
 Lester, Julius. _Lovesong: Becoming A Jew_. Arcade, 2013.

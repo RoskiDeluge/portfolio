@@ -15,4 +15,5 @@ Quantum states evolve according to the wave function which obeys Schrödinger's 
 \*Hat tip to my friend Paul Loeb for the title.
 
 Reading:
+
 Sean Carroll, [Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime](https://www.amazon.com/Something-Deeply-Hidden-Emergence-Spacetime/dp/1524743011)

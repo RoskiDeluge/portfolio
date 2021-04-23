@@ -18,5 +18,6 @@ In essence, Roy is saying to Nyles that he needs to find his home. He also needs
 
 Lately I've been using the idea of being close to home as a shorthand for being more centered, being more present in my day to day. Of course, I haven't had to go through thousands or millions of iterations to find my Irvine, but the forced isolation of our pandemic has aided in the discovery.
 
-Reading: \
+Reading:
+
 Wilson, Robert A. _Prometheus Rising_. Hilaritas Press, 2016.

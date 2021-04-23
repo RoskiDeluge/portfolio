@@ -19,7 +19,9 @@ Gold rush era California was the perfect place for landscape photography because
 Fast forward to today and consider this group of landscape photographs of Puerto Rico. Here we see a vision of a place that has largesse, opulence and ritmo. There’s also technical homage to the tradition of using clouds as expressive elements in the compositions. But, arguably, what is best about these photographs is their joint cleansing effect realized through an invitation to really see this place again, but from a different vantage point. They testify to a desire to turn this landscape into land again, which, admittedly, may be quixotic, but here in Puerto Rico we know a thing or two about crazed Spaniards fighting against windmills.
 
 Reading:
+
 Rebecca Solnit, [River of Shadows: Eadweard Muybridge and the Technological Wild West](https://www.amazon.com/River-Shadows-Eadweard-Muybridge-Technological/dp/0142004103)
 
 Photo:
+
 Jorge L. Delgado, _Panoramas Isleños_ (book forthcoming)

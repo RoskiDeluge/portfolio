@@ -22,5 +22,6 @@ One of the biggest gains I've made in my thinking over the past few years has be
 
 As I type these words, my partner and I are anxiously awaiting the first pangs of labor pain that will announce the imminent birth of our second child. We've settled on a biblical name for him. Our family doesn't practice Christianity, but even so, I felt it important to read the book of the bible that will be his namesake. It's a paradox of life, as I see it, that in naming something or someone you are also naming yourself. My self definition after becoming a parent is very much tied up with the way that the little being I help to name is now helping me name my experience. And I'm grateful, because a name for me, when the rubber meets to road, is just a way to describe the process of sinking my roots deeper in the earth.
 
-Reading:\
+Reading:
+
 Kalanithi, Paul. _When Breath Becomes Air_. Random House, 2016.

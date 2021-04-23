@@ -20,5 +20,6 @@ In Phil Connor's case, the scale of the loop itself and his progressive, hard wo
 
 So the question I'm holding is, what do we gain or lose by reimagining the scale of the loops in our lives?
 
-Reading: \
+Reading:
+
 Loeb, Paul S. "<a href="https://www.academia.edu/34667598/The_Colossal_Moment_in_Nietzsches_Gay_Science_341" target="_blank">The Colossal Moment in Nietzsche's Gay Science 341</a>" _The Nietzschean Mind_, edited by Paul Katsafanas, Routledge, 2017, pp. 428-447.
