@@ -1,6 +1,6 @@
 ---
 title: The Power of Iron John
-date: 2021/03/28
+date: 2021/04/28
 description: I've been thinking a lot about honor recently, specifically the question of how we can honor things or people in our life properly.
 tag: philosophy
 author: Roberto
