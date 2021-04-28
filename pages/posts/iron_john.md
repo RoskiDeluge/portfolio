@@ -20,4 +20,4 @@ To my mind, the lesson here is that until the boy can learn to recognize, reflec
 
 Reading:
 
-Bly, Robert. _Iron John: A Book About Men_. Da Capo Pres, 2015.
+Bly, Robert. _Iron John: A Book About Men_. Da Capo Press, 2015.
