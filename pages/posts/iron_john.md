@@ -1,7 +1,7 @@
 ---
 title: The Power of Iron John
 date: 2021/04/28
-description: I've been thinking a lot about honor recently, specifically the question of how we can honor things or people in our life properly.
+description: I've been thinking a lot about honor recently, specifically the question of how we can properly honor the things and people in our lives
 tag: philosophy
 author: Roberto
 ---
@@ -14,7 +14,7 @@ On re-reading the book, though, I was struck by a small detail. Very little noti
 
 If we were to imagine Nietzsche's take on Iron John, for instance, we'd have a clearer focus on that part of the wild man that drives the action forward, his power. Bly, unfortunately, in the one place where he mention's Nietzsche, does so to disparage his being stuck in the warrior stage of initiation. I call it unfortunate because this is precisely the point at which Nietzsche's philosophy can amplify the effect of Iron John. Nietzsche says in Beyond Good and Evil that "only the powerful know how to honor, that is their art and their realm of invention."
 
-I've been thinking a lot about honor recently, specifically the question of how we can honor things or people in our life properly. The story of Iron John gives a hint as to the source of honor and how it flows in society. It's telling that in the scene where the boy is taken by the wild man, separated from his family, and asked to watch over the sacred spring, the wild man makes a point of separating the fact that he has gold from the fact that he has power. He tells the boy to guard the spring and let nothing fall into the water, for that would dishonor the spring. It's important to notice here that the wild man doesn't say that if something falls into the water, _he_ would be dishonored, but that _the spring_ would be. To me, this creates a clear separation, and what the wild man is telling the boy is that he is the source of the spring's honor and nothing that the boy does will affect the source.
+I've been thinking a lot about honor recently, specifically the question of how we can properly honor the things and people in our lives. The story of Iron John gives a hint as to the source of honor and how it flows in society. It's telling that in the scene where the boy is taken by the wild man, separated from his family, and asked to watch over the sacred spring, the wild man makes a point of separating the fact that he has gold from the fact that he has power. He tells the boy to guard the spring and let nothing fall into the water, for that would dishonor the spring. It's important to notice here that the wild man doesn't say that if something falls into the water, _he_ would be dishonored, but that _the spring_ would be. To me, this creates a clear separation, and what the wild man is telling the boy is that he is the source of the spring's honor and nothing that the boy does will affect the source.
 
 To my mind, the lesson here is that until the boy can learn to recognize, reflect upon, and integrate the true source of honor in the world, not only will he not be able to honor, but he won't know his own power.
 
