@@ -50,4 +50,4 @@ in the technological progression of the reproduction of images, the physical par
 
 Reading:
 
-Bly, Robert. _Iron John: A Book About Men_. Da Capo Press, 2015.
+Benjamin, Walter. _Illuminations_. Da Capo Press, 2015.
