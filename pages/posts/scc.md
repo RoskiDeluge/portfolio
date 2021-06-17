@@ -28,4 +28,4 @@ Where do we go from here? I, for one, am deep into the weeds of the Next.js fram
 
 Reading:
 
-Marletto, Chiara. _The Science of Can and Can't: A Physicists's Journey Through the Land of Counterfactuals._ Random House, 2021.
+Marletto, Chiara. _The Science of Can and Can't: A Physicists's Journey Through the Land of Counterfactuals._ Penguin: Random House, 2021.
