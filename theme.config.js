@@ -29,6 +29,10 @@ export default {
       </span>
       <time>{YEAR}</time> © Roberto L. Delgado.
       <a href="/feed.xml">RSS</a>
+      <br />
+      <span>
+        Set in <Link href="https://authentic.website/sans">Authentic Sans</Link>
+      </span>
       <style jsx>{`
         a {
           float: right;

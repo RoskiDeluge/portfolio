@@ -6,7 +6,7 @@ tag: philosophy, science, development
 author: Roberto
 ---
 
-# "If can can, if no can no can."
+# "If Can Can, If No Can No Can."
 
 "Can can," as I see it, expresses that something is possible, "no can no can" that it is impossible. As the truth of things is approached, the less official the road to it seems. In a neat twist of affairs, if [constructor theory](https://en.wikipedia.org/wiki/Constructor_theory) is true, then the above phrase from Hawaii's pidgin may have the distinction of expressing the fundamental nature of reality.
 
