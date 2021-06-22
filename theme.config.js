@@ -1,11 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
-import {
-  Github,
-  Twitter,
-  Instagram,
-  Youtube
-} from '@icons-pack/react-simple-icons'
+import { Github, Twitter, Instagram } from '@icons-pack/react-simple-icons'
 const YEAR = new Date().getFullYear()
 
 export default {
