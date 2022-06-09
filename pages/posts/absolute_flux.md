@@ -10,7 +10,7 @@ author: Roberto
 
 I've been listening to the [History of Philosophy](https://historyofphilosophy.net/) podcast. Episode 7 presents Parmenides's ideas on the unchanging nature of reality and how the world is full, meaning that there are no gaps of non-being that separate one thing from another.
 
-The Eleatics were a fantastic group of philosophers that in one way or another were disciples of this basic Parminidean idea of the oneness of everything and how all change is an illusion. In a violation of the ethos of the HoP podcast I'd like to leap over a huge gap and go straight to Nietzsche, who seems to me the most radical critic of the Eleatics.
+The Eleatics were a fantastic group of philosophers that embraced this Parminidean idea of the oneness of everything and how all change is an illusion. In a violation of the ethos of the HoP podcast I'd like to leap over a huge gap and go straight to Nietzsche, who seems to me the most radical critic of the Eleatics.
 
 Nietzsche not only believes that change exists, but that absolute diachronic flux is the fundamental reality. Nietzsche also controversially proposed a model of the cosmos that eternally repeats which keeps the whole thing in something like a dynamic equilibrium: the flux blows everything up at all times, the return brings everything back exactly as it was.
 
