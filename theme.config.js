@@ -22,7 +22,7 @@ export default {
           </Link>
         </span>
         <span style={{ paddingLeft: '1rem' }}>
-          <Link href="https://instagram.com/sfirstm">
+          <Link href="https://instagram.com/roskideluge">
             <Instagram title="RD Instagram" color="#808080" size={24} />
           </Link>
         </span>
