@@ -1,3 +1,4 @@
+import { useEffect } from 'react'
 import 'nextra-theme-blog/style.css'
 import Head from 'next/head'
 import TagManager from 'react-gtm-module'
