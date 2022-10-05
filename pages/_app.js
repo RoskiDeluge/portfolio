@@ -5,15 +5,7 @@ import Script from 'next/script'
 
 import '../styles/main.css'
 
-const tagManagerArgs = {
-  id: "GTM-PH7X4H4",
-}
-
 export default function Nextra({ Component, pageProps }) {
-
-  useEffect(() => {
-    TagManager.initialize(tagManagerArgs)
-  }, [])
 
   return (
     <>
