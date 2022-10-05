@@ -1,4 +1,3 @@
-import { useEffect } from 'react'
 import 'nextra-theme-blog/style.css'
 import Head from 'next/head'
 import Script from 'next/script'
