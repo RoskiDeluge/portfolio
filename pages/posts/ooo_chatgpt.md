@@ -8,7 +8,7 @@ author: Roberto
 
 # Object Objects Object
 
-_Can you explain how the concept of "object" has been used in psychoanalysis? I'm interested in it's historical origins and its therapeutic applications._
+_Can you explain how the concept of "object" has been used in psychoanalysis? I'm interested in its historical origins and its therapeutic applications._
 
 In psychoanalysis, the concept of "object" refers to a person or thing that is the focus of a person's thoughts, feelings, and actions. In the context of psychoanalysis, an object is often used to represent a person or thing that is the source of a person's emotional responses or behaviors. The concept of "object" has its origins in the work of Sigmund Freud, who used the term to describe the people or things that were the focus of a person's unconscious desires and motivations.
 
@@ -38,7 +38,7 @@ Object-oriented ontology (OOO), on the other hand, is a philosophical theory tha
 
 While both object relations theory and OOO use the term "object" in their respective fields of study, the concept of "object" is used in very different ways and has very different implications in each field. Object relations theory is primarily concerned with understanding how relationships with others shape a person's thoughts, feelings, and behaviors, while OOO is focused on the inherent properties and agency of objects in the world. Therefore, there is not a direct connection between object relations theory and object-oriented ontology.
 
-_Of course there isn't a direct connection, but certainly one could argue that for human beings, the idea of objects living a life of their own that is not in some modeled in some inescapable ways on how we view the world is unavoidable._
+_Of course there isn't a direct connection, but certainly one could argue that for human beings the idea of objects living a life of their own that is not modeled on our own life and how we view the world is hard to accept._
 
 It is certainly true that human beings have a tendency to project their own experiences and perceptions onto the objects and events around them, and this can influence how they understand and interpret these objects and events. This is known as the "humanocentric" perspective, which assumes that human experience and understanding are the fundamental basis of reality.
 
