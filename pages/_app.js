@@ -23,6 +23,13 @@ export default function Nextra({ Component, pageProps }) {
         />
         <link
           rel="preload"
+          href="/fonts/AUTHENTICSans-90.woff2"
+          as="font"
+          type="font/woff2"
+          crossOrigin="anonymous"
+        />
+        <link
+          rel="preload"
           href="/fonts/AUTHENTICSans-150.woff2"
           as="font"
           type="font/woff2"
