@@ -2,7 +2,8 @@
 title: Problems with OOO
 date: 2022/12/30
 description: I've got some issues with OOO...
-tag: philosophy
+state: planted 12-30-2022
+tag: philosophy, seedling
 author: Roberto
 ---
 
