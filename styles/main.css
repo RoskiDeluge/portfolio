@@ -1,4 +1,11 @@
 @font-face {
+  font-family: 'AUTHENTICSans-60';
+  font-style: normal;
+  font-weight: 60;
+  font-display: block;
+  src: url(/fonts/AUTHENTICSans-60.woff2) format('woff2');
+}
+@font-face {
   font-family: 'AUTHENTICSans-90';
   font-style: normal;
   font-weight: 90;
@@ -14,7 +21,7 @@
 }
 
 body {
-  font-family: 'AUTHENTICSans-90', system-ui, -apple-system, BlinkMacSystemFont,
+  font-family: 'AUTHENTICSans-60', system-ui, -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif,
     'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: subpixel-antialiased;
@@ -26,7 +33,6 @@ body {
 }
 b,
 strong,
-h3,
 h4,
 h5,
 h6 {
@@ -38,6 +44,11 @@ h1 {
 }
 h2 {
   font-variation-settings: 'wght' 750;
+}
+
+h3 {
+  font-family: 'AUTHENTICSans-150';
+  font-variation-settings: 'wght' 850;
 }
 
 @media screen and (min-device-pixel-ratio: 1.5),
@@ -69,5 +80,5 @@ img.next-image {
 }
 
 .prose p {
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
