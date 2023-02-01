@@ -8,7 +8,9 @@ author: Roberto
 
 # Landscape
 
+<div id="very-important-image">
 ![Jorge L. Delgado - Panoramas Isleños](/images/panoramas1.png)
+</div>
 
 The gold rush era represented many things. One of its representations is a turbulent time when the fate of whole cultures was being decided and astronomical fortunes were being made. Amid this turmoil, another revolution no less important was unfolding: the perfect representation of the land through photography. The lands of California were the first to be faithfully captured by the new technology.
 
