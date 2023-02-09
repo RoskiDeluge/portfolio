@@ -1,6 +1,6 @@
 ---
 title: The Philosophical Aspects of Representation
-date: 2023/2/1
+date: 2023/2/9
 description: Representing the world
 tag: philosophy, ai, seedling
 author: Roberto
@@ -44,7 +44,7 @@ Sure! Here's a basic outline for a research agenda to study the philosophical as
 
 Note: This is just a basic outline and can be modified and expanded upon as needed.
 
-_Can you give me a summary of the philsophical theories of representation you mentioned? Those are: realism, constructivism, and representationism._
+_Can you give me a summary of the philosophical theories of representation you mentioned? Those are: realism, constructivism, and representationism._
 
 Certainly! Here's a brief summary of the philosophical theories of representation mentioned:
 
