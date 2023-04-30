@@ -10,7 +10,7 @@ author: Roberto
 
 Robert Bly's magnificent book _Iron John_ gives an introduction to the ancient initiation traditions of Northern Europe as crystalized in the Grimm Brother's story. I can't praise the book enough as a masterpiece of the poetic imagination. Bly deftly unpacks the mythological layers to reveal and reintepret the wild man, or the heart of the masculine polarity, a central aspect of life that seems as absent now from our cultural imagination as it was when the book was published in 1990.
 
-On re-reading the book, though, I was struck by a small detail. Very little notice is taken of one of the wild man's most important, if not central, characteristics, namely his power. This slight elision from the otherwise trenchant discourse on aspects of the repressed male psyche seems to me to reinforce this same repression.
+On re-reading the book, though, I was struck by a small detail. Very little notice is taken of one of the wild man's most important, if not central, characteristics, namely his power. This elision from the drama depicting the fight between aspects of the repressed male psyche seems to leave a crucial feature unexplored.
 
 If we were to imagine Nietzsche's take on Iron John, for instance, we'd have a clearer focus on that part of the wild man that drives the action forward, his power. Bly, unfortunately, in the one place where he mention's Nietzsche, does so to disparage his being stuck in the warrior stage of initiation. I call it unfortunate because this is precisely the point at which Nietzsche's philosophy can amplify the effect of Iron John. Nietzsche says in Beyond Good and Evil that "only the powerful know how to honor, that is their art and their realm of invention."
 
