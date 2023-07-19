@@ -13,7 +13,7 @@ The two fundamental principles of the lean method are:
 `1. Declare your victories.`  
 `2. People don’t buy products, people buy solutions to problems.`
 
-So how can we build a product/service that solves people’s problems? One way is to seek what lean practitioners call product-market fit.
+So how can we build a product/service that solves people’s problems? One way is to seek product-market fit (PMF).
 
 What is product-market fit?
 
@@ -27,9 +27,9 @@ The passion that is usually attached to a product/service needs to be attached t
 
 How can we satisfy a market? By achieving product-market fit.
 
-Justin Wilcox developed five experiments to better achieve product-market fit. The five experiments are intended as tests to five assumptions.
+Justin Wilcox proposes five assumptions that all products or services that have achieved PMF have managed to answer succesfully. 
 
-These are:
+What follows is a list of the five assumptions and Wilcox's proposed tests to answer each of them:
 
 `1. There are people out there that are trying to solve this problem.`
 
@@ -57,20 +57,16 @@ People will pay you the money you need to achieve your declared victory, if you 
 
 Utility test:
 
-Providing value, that is, can you actually solve people’s problems? Then, you be the solution to the problem, for example by beginning with a manual solution (Minimum Viable Product). It’s easier to take feedback from your customers if your solution is manual rather than automated.
+Can you actually solve people’s problems? In other words, does your product provide value to the user? If it does based on the results of the previous tests, then the next step is to become the solution to the problem by building a manual solution (Minimum Viable Product). It’s easier to take feedback from your customers if your solution is manual rather than automated.
 
 `5. The solution can be automated and scaled.`
 
 Scaling test:
 
-Now is the time to build software and robots to replace you and automate. And also to reach out to the 2nd or 3rd marketing channels and 2nd or 3rd customer segments.
+Now is the time to build software and robots to replace you (the MVP) and automate. It's also good at this stage to reach out to the 2nd or 3rd marketing channels and 2nd or 3rd customer segments.
 
-My take-aways:
-
-Building the product is what comes last in this framework. Before any building takes place there are 5 assumptions that need to be validated using the 5 tests/experiments (or some variation) described above.
-
-EDIT: 3/24/20  
-As I revisit these notes, I realize that Wilcox’s framework goes beyond a startup success recipe and reaches upstream to the state of mind of the creator. By declaring your victories upfront, the framework calls on the creator to attempt to make their ultimate assumptions explicit. The point here, as I understand it, is not to create a rigid goal that must be followed at all costs, but to kick start the heart of the venture with a value.
+<!-- Note: 3/24/20  
+As I revisit these notes, I realize that Wilcox’s framework goes beyond a startup success recipe and reaches upstream to the state of mind of the creator. By declaring your victories upfront, the framework calls on the creator to attempt to make their ultimate assumptions explicit. The point here, as I understand it, is not to create a rigid goal that must be followed at all costs, but to kick start the heart of the venture with a value. -->
 
 References:
 
