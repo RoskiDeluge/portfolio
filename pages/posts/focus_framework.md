@@ -65,8 +65,8 @@ Scaling test:
 
 Now is the time to build software and robots to replace you (the MVP) and automate. It's also good at this stage to reach out to the 2nd or 3rd marketing channels and 2nd or 3rd customer segments.
 
-<!-- Note: 3/24/20  
-As I revisit these notes, I realize that Wilcox’s framework goes beyond a startup success recipe and reaches upstream to the state of mind of the creator. By declaring your victories upfront, the framework calls on the creator to attempt to make their ultimate assumptions explicit. The point here, as I understand it, is not to create a rigid goal that must be followed at all costs, but to kick start the heart of the venture with a value. -->
+{/* Note: 3/24/20  
+As I revisit these notes, I realize that Wilcox’s framework goes beyond a startup success recipe and reaches upstream to the state of mind of the creator. By declaring your victories upfront, the framework calls on the creator to attempt to make their ultimate assumptions explicit. The point here, as I understand it, is not to create a rigid goal that must be followed at all costs, but to kick start the heart of the venture with a value. */}
 
 References:
 
