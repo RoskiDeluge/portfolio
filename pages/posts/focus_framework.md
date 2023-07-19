@@ -23,7 +23,7 @@ As a developer/builder, however, the passion that we usually attach to the thing
 
 Ok, so you've declared your victories, what's next? Now we need to commit to solving a problem in a way that let's us realize our declared victories. How can we do that? By making something that achieves product-market fit.
 
-Product market fit means satisfying a market that satisfies you.
+> Product market fit means satisfying a market that satisfies you.
 
 Justin Wilcox proposes five assumptions that all products or services that have achieved PMF have managed to answer succesfully. 
 
