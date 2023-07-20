@@ -19,9 +19,9 @@ So how can we build a product/service that solves people’s problems? One clear
 
 All people live in an attraction/aversion loop. People are passionate about things they are attracted to and averse to the things that bring discomfort/pain.
 
-As a developer/builder, however, the passion that we usually attach to the things we're building or coding needs to hook onto the declared victories instead. This simple shift at the beginning of a project, before anything is built, allows the builders to remain uncommitted to a particular product and service if it brings them no closer to achieving their declared victories.
+As a developer/builder, however, the passion that we usually attach to the things we're building or coding needs to hook onto the declared victories instead. This simple shift at the beginning of a project, before anything is built, allows the builders to remain uncommitted to a particular product and service if it doesn't bring them closer to achieving their declared victories.
 
-Ok, so you've declared your victories, what's next? Now we need to commit to solving a problem in a way that let's us realize our declared victories. How can we do that? By making something that achieves product-market fit.
+Ok, so you've declared your victories, what's next? Now we need to commit to solving a problem in a way that lets us realize our declared victories. How can we do that? By making something that achieves product-market fit.
 
 > Product market fit means satisfying a market that satisfies you.
 
