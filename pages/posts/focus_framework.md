@@ -1,12 +1,12 @@
 ---
-title: FOCUS
+title: The FOCUS Framework
 date: 2020/5/26
 description: Product market fit means satisfying a market that satisfies you.
 tag: marketing
 author: Roberto
 ---
 
-# The FOCUS framework
+# FOCUS
 
 The two fundamental principles of the lean method are:
 
