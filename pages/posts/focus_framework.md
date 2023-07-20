@@ -23,7 +23,7 @@ People (users, customers, developers, builders, etc) are guided by principles. A
 
 Why?
 
-As a developer/builder, we usually attach our passion to the things we're building or coding. But if we build from our principles, we can remain uncommitted to a particular product and service if it doesn't bring them closer to achieving our declared victories.
+As a developer/builder, we usually attach our passion to the things we're building or coding. But if we build from our principles, we can remain uncommitted to a particular product and service if it doesn't bring us closer to achieving our declared victories.
 
 Ok, so you've declared your victories, what's next? Now we need to commit to solving a problem in a way that lets us realize our declared victories. How can we do that? By making something that achieves product-market fit.
 
