@@ -7,7 +7,6 @@ author: Roberto
 ---
 
 # The Philosophical Aspects of Representation
-#### _Seedling: Planted 2-9-2023_ 🌱
 
 ### _Conversation with ChatGPT_
 
@@ -75,3 +74,5 @@ Walter Benjamin's work could be considered as aligned with a constructivist theo
 Benjamin's perspective suggests that our experiences and perceptions of art are constructed by the cultural and historical context in which they are produced and consumed, rather than being directly tied to an original reality. This aligns with constructivist theories of representation, which argue that our perceptions are shaped by our own subjective experiences and cultural context, rather than reflecting a direct correspondence to an external reality.
 
 In this way, Walter Benjamin's work can be seen as contributing to a constructivist theory of representation, particularly in the context of art and mechanical reproduction.
+
+#### _Seedling: Planted 2-9-2023_ 🌱

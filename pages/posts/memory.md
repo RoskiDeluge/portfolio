@@ -7,7 +7,6 @@ author: Roberto
 ---
 
 # Memory - Human and Machine
-#### _Seedling: Planted 3-13-2023_ 🌱
 
 ### _Conversation with ChatGPT_
 
@@ -48,4 +47,6 @@ The philosophy of memory can be helpful in several ways for your endeavor of cre
 4.  Ethical considerations: Philosophy of memory can provide ethical considerations for designing and using your memory system. For example, it can help you understand the implications of storing and using personal information in your memory system and how to ensure that the system is designed and used in an ethical and responsible manner.
 
 Overall, the philosophy of memory can provide a valuable framework for understanding the nature of memory and how to design a long-term memory system modeled after human memory that is reliable, accurate, and ethical.
+
+#### _Seedling: Planted 3-13-2023_ 🌱
 

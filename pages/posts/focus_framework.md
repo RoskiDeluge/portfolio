@@ -2,7 +2,7 @@
 title: The FOCUS Framework
 date: 2020/5/26
 description: Product market fit means satisfying a market that satisfies you.
-tag: marketing
+tag: marketing, evergreen
 author: Roberto
 ---
 
@@ -71,3 +71,5 @@ References:
 
 [focus-framework]: https://thefocusframework.com/
 [ff-soundcloud]: https://soundcloud.com/lean-startup/the-5-experiments-you-need-to-find-product-market-fit
+
+#### 🌳 _Evergreen: Revised 7-19-2023_ 
