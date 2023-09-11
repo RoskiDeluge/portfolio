@@ -8,8 +8,8 @@ class MyDocument extends Document {
 
   render() {
     const meta = {
-      title: 'Roberto L. Delgado | Web Developer',
-      description: 'I’m a web developer based in Honolulu, HI.',
+      title: 'Roberto L. Delgado | Web Analyst',
+      description: 'Digial Experience Analyst based in Honolulu, HI.',
       image: '/images/the_rose_1.jpg'
     }
 
@@ -33,7 +33,7 @@ class MyDocument extends Document {
           <NextScript />
           <noscript
             dangerouslySetInnerHTML={{
-              __html: `<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PH7X4H4" height="0" width="0" style="display: none; visibility: hidden;" />`,
+              __html: `<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PH7X4H4" height="0" width="0" style="display: none; visibility: hidden;" />`
             }}
           />
         </body>
