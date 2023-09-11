@@ -1,7 +1,7 @@
 ---
 title: Less and More
 date: 2023/9/11
-description: Minimalismm and maximalism are both wrong.
+description: Minimalism and maximalism are both wrong.
 tag: philosophy
 author: Roberto
 ---
