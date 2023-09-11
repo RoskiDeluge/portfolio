@@ -8,7 +8,7 @@ author: Roberto
 
 # Less and More
 
-For as long as I've been interested in philosophy, I have been drawn to the extremes. It's hard not to be. Whether it's the story of Thales making a big bet on the production of the olive presses that made him rich, or Diogenes the Cynic naked and crass when he met Alexander the Great, these stories, among other things, teach us that ultimately we'll be called to take an extreme position to validate our life's worth. 
+For as long as I've been interested in philosophy, I have been drawn to the extremes. It's hard not to be. Whether it's the story of Thales making a big bet on the production of the olive presses that made him rich or Diogenes the Cynic naked and crass when he met Alexander the Great, these stories, among other things, teach us that ultimately we'll be called to take an extreme position to validate our life's worth. 
 
 I'm starting to question that position. A way I'm conceptualizing the change is that I'm moving away from the minimalist state of "less is more" and the maximalist aim of "more is more" to the balanced achivement of "less and more."
 
