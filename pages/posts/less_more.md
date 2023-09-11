@@ -8,7 +8,7 @@ author: Roberto
 
 # Less and More
 
-For as long as I've been interested in philosophy, I have been drawn to the extremes. It's hard not to be. Whether it's the story of Thales making a big bet on the production of the olive presses that made him rich, or Diogenes the Cynic's naked and crass when he met Alexander the Great, these stories, among other things, teach us that ultimately we'll be called to take an extreme position to validate our life's worth. 
+For as long as I've been interested in philosophy, I have been drawn to the extremes. It's hard not to be. Whether it's the story of Thales making a big bet on the production of the olive presses that made him rich, or Diogenes the Cynic naked and crass when he met Alexander the Great, these stories, among other things, teach us that ultimately we'll be called to take an extreme position to validate our life's worth. 
 
 I'm starting to question that position. A way I'm conceptualizing the change is that I'm moving away from the minimalist state of "less is more" and the maximalist aim of "more is more" to the balanced achivement of "less and more."
 
@@ -16,7 +16,7 @@ Like all drawn out processes, this conviction took time to emerge. For me it's b
 
 What I have needed is a return to myself. To be in love again. And there's good precedent for this new line of thought. "Perhaps love is the process of me leading you back to yourself," as Leo Buscaglia said. 
 
-Amid this change (and perhaps the main driver of it) has been my discovery of philosopher Susan Langer. I'm reading _Philosophy in a New Key_ and it's radically changing how I thoght about the value of all symbolic activity. When Langer tells the age old story of how we became the rational animal, she doesn't do what countless others do, which is to misintepret a symbolically rich and developed state as a primitive one. 
+Amid this change (and perhaps the main driver of it) has been my discovery of philosopher Susan Langer. I'm reading _Philosophy in a New Key_ and it's radically changing how I thought about the value of all symbolic activity. When Langer tells the age old story of how we became the rational animal, she doesn't do what countless others do, which is to misintepret a symbolically rich and developed state as a primitive one. 
 
 Langer centers her criticism of the linguistic turn in philosophy that was emerging as the consensus of her day, thanks to the pioneering work of Frege, Russell, Wittgenstein and their Vienna circle compatriots, with the subtle and yet sublime reminder that our symbolisms (language included) emerged from a deep backdrop of body related and anchored activities. 
 
