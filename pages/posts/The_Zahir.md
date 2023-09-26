@@ -50,8 +50,6 @@ Mediations consummate to the degree of their immediacy. There's an unsteady natu
 
 In the paragraph above, I categorized the mediate and the immediate as false and true, secondary and primary. But after reading a bit I realize that both terms are thought to name processes that are more malleable and dynamic than I initially thought. Another interesting implication of my reading so far is that both the mediate and the immediate are phenomena occurring in the body. What does this mean to treat both the mediations that we encounter and the immediacy we experience as fundamentally emergent bodily phenomena?
 
-https://lucian.uchicago.edu/blogs/mediatheory/keywords/mediation/
-https://lucian.uchicago.edu/blogs/mediatheory/keywords/immediacyimmediate/
 
 6/16/20 \
 Drawing with light. Photography: an apex in the quest to create a perfect replica of vision (or: our sense of sight). The photograph: or, the subject and predicate of vision. The phenomenon of vision is made concrete/reified in the photograph. Now this visual legacy, grammar, and technical ability is being transferred to machines. We enhanced our sense of sight (McLuhan) through photography and it also allowed us to extended the range of our vision. But this development occurred within an anthropocentric space. The space is now encompassing the non-human through AI (computer vision, neural networks, etc.) But this latest extension doesn't mean that the potential of photography for molding our visual sense is ending. On the contrary, the photograph is now the means for an other (a machine is the ultimate "other") to enhance and extend its visual sense.
