@@ -8,10 +8,6 @@ author: Roberto
 
 # The Zahir - Notes on Photography
 
-The zahir - notes on photography
-
-# The Zahir
-
 9/25/23 \
 Perhaps the photograph is an exemplar of the Anthropocene and the generative image is an exemplar of the Neganthropocene. The photograph is the ultimate proof of fixed relations, but the generative image is a starting point for possibilities. The generative image also announces the reapproachment of the textual with the visual and allows for an exploration of the commonalities of these distinct symbolic modes.
 
