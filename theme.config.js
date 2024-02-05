@@ -14,16 +14,31 @@ export default {
         }}
       >
         <Link href="https://github.com/roskideluge">
-          <Github title="RD Github" color="#808080" size={24} />
+          <Github
+            title="RD Github"
+            color="#808080"
+            size={24}
+            cursor={'pointer'}
+          />
         </Link>
         <span style={{ paddingLeft: '1rem' }}>
           <Link href="https://twitter.com/RoskiDeluge">
-            <Twitter title="RD Twitter" color="#808080" size={24} />
+            <Twitter
+              title="RD Twitter"
+              color="#808080"
+              size={24}
+              cursor={'pointer'}
+            />
           </Link>
         </span>
         <span style={{ paddingLeft: '1rem' }}>
           <Link href="https://instagram.com/roskideluge">
-            <Instagram title="RD Instagram" color="#808080" size={24} />
+            <Instagram
+              title="RD Instagram"
+              color="#808080"
+              size={24}
+              cursor={'pointer'}
+            />
           </Link>
         </span>
       </span>
