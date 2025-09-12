@@ -2,7 +2,7 @@
 title: The FOCUS Framework
 date: 2020/5/26
 description: Product market fit means satisfying a market that satisfies you.
-tag: marketing, evergreen
+tag: marketing
 author: Roberto
 ---
 
@@ -27,7 +27,7 @@ As a developer/builder, we usually attach our passion to the things we're buildi
 
 Ok, so you've declared your victories, what's next? Now we need to commit to solving a problem in a way that lets us realize our declared victories. How can we do that? By making something that achieves product-market fit.
 
-> Product market fit means satisfying a market that satisfies you.
+> Product market fit means satisfying a market that satisfies you. 
 
 Justin Wilcox proposes five assumptions that all products or services that have achieved PMF have managed to answer succesfully. 
 
@@ -75,5 +75,3 @@ References:
 
 [focus-framework]: https://thefocusframework.com/
 [ff-soundcloud]: https://soundcloud.com/lean-startup/the-5-experiments-you-need-to-find-product-market-fit
-
-#### 🌳 _Evergreen: Revised 7-19-2023_ 
