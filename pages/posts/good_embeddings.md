@@ -3,10 +3,12 @@ title: Good Embeddings
 date: 2025/09/12
 description: Can the Platonic good be codified?
 tag: philosophy, AI, coding
-author: Roberto
+author: Roberto & ChatGPT
 ---
 
-# Guideposts for the Work
+# Good Embeddings
+
+_The following is a program of work for a new interaction paradigm on the Web. It is fairly experimental and technical, but ultimately it is an exploration of ideas related to the convergence of world representations within language models. The main inspiration is this paper: [The Platonic Representation Hypothesis](https://arxiv.org/abs/2405.07987)_
 
 ## Ontology (what the world is made of)
 
