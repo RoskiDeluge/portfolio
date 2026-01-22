@@ -191,6 +191,13 @@ main {
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
+.post-card .card-image {
+  width: 100%;
+  border-radius: 0.9rem;
+  margin-bottom: 0.9rem;
+  display: block;
+}
+
 .post-card:hover {
   transform: translateY(-4px);
   box-shadow: 0 24px 45px var(--shadow);

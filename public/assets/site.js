@@ -5,6 +5,7 @@ class SiteHeader extends HTMLElement {
         <nav class="nav-links" aria-label="Primary">
           <a href="/">Home</a>
           <a href="/posts/">Posts</a>
+          <a href="/work/">Work</a>
         </nav>
       </header>
     `;
