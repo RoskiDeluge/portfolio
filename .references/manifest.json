@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "created_at": "2026-02-20T20:47:45.199Z",
+  "updated_at": "2026-02-20T20:48:21.774Z",
+  "artifacts": [
+    {
+      "id": "769295d5-52a5-45a1-93f0-d901d0ade715",
+      "name": "gtm_consulting",
+      "filename": "gtm_consulting.md",
+      "kind": "note",
+      "mime_type": "text/markdown",
+      "size_bytes": 2868,
+      "tags": [],
+      "created_at": "2026-02-20T20:48:21.769Z",
+      "updated_at": "2026-02-20T20:48:21.769Z"
+    }
+  ]
+}
