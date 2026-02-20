@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roberto L. Delgado</title>
-    <link>https://rdsiteportfolio.vercel.app</link>
+    <link>https://delgadodev.xyz</link>
     <description>Essays and notes by Roberto L. Delgado.</description>
+    <atom:link href="https://delgadodev.xyz/feed.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Feb 2026 00:00:00 GMT</lastBuildDate>
+    <ttl>60</ttl>
     <item>
       <title>Questions About Her</title>
-      <link>https://rdsiteportfolio.vercel.app/posts/her.html</link>
-      <guid>https://rdsiteportfolio.vercel.app/posts/her.html</guid>
+      <link>https://delgadodev.xyz/posts/her.html</link>
+      <guid>https://delgadodev.xyz/posts/her.html</guid>
       <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
       <description>Questions about agency, opacity, and trust in transformative machines.</description>
     </item>
     <item>
       <title>Less and More</title>
-      <link>https://rdsiteportfolio.vercel.app/posts/less_more.html</link>
-      <guid>https://rdsiteportfolio.vercel.app/posts/less_more.html</guid>
+      <link>https://delgadodev.xyz/posts/less_more.html</link>
+      <guid>https://delgadodev.xyz/posts/less_more.html</guid>
       <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
       <description>Minimalism and maximalism are both wrong.</description>
     </item>
     <item>
       <title>If Can Can, If No Can No Can.</title>
-      <link>https://rdsiteportfolio.vercel.app/posts/scc.html</link>
-      <guid>https://rdsiteportfolio.vercel.app/posts/scc.html</guid>
+      <link>https://delgadodev.xyz/posts/scc.html</link>
+      <guid>https://delgadodev.xyz/posts/scc.html</guid>
       <pubDate>Thu, 17 Jun 2021 00:00:00 GMT</pubDate>
       <description>
         Turns out that the possible and impossible, also known as the counterfactual,
@@ -30,8 +34,8 @@
     </item>
     <item>
       <title>The Power of Iron John</title>
-      <link>https://rdsiteportfolio.vercel.app/posts/iron_john.html</link>
-      <guid>https://rdsiteportfolio.vercel.app/posts/iron_john.html</guid>
+      <link>https://delgadodev.xyz/posts/iron_john.html</link>
+      <guid>https://delgadodev.xyz/posts/iron_john.html</guid>
       <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
       <description>
         I've been thinking a lot about honor recently, specifically the question of
@@ -40,8 +44,8 @@
     </item>
     <item>
       <title>Julius Lester and the Gift of Failure</title>
-      <link>https://rdsiteportfolio.vercel.app/posts/julius_lester.html</link>
-      <guid>https://rdsiteportfolio.vercel.app/posts/julius_lester.html</guid>
+      <link>https://delgadodev.xyz/posts/julius_lester.html</link>
+      <guid>https://delgadodev.xyz/posts/julius_lester.html</guid>
       <pubDate>Sat, 27 Mar 2021 00:00:00 GMT</pubDate>
       <description>
         He was the type of teacher that expected the highest rigor in the things that
@@ -50,8 +54,8 @@
     </item>
     <item>
       <title>Names</title>
-      <link>https://rdsiteportfolio.vercel.app/posts/names.html</link>
-      <guid>https://rdsiteportfolio.vercel.app/posts/names.html</guid>
+      <link>https://delgadodev.xyz/posts/names.html</link>
+      <guid>https://delgadodev.xyz/posts/names.html</guid>
       <pubDate>Thu, 11 Mar 2021 00:00:00 GMT</pubDate>
       <description>
         A name does not exist by itself, but only in relation to something else.
@@ -59,8 +63,8 @@
     </item>
     <item>
       <title>Signal and Noise</title>
-      <link>https://rdsiteportfolio.vercel.app/posts/signal_noise.html</link>
-      <guid>https://rdsiteportfolio.vercel.app/posts/signal_noise.html</guid>
+      <link>https://delgadodev.xyz/posts/signal_noise.html</link>
+      <guid>https://delgadodev.xyz/posts/signal_noise.html</guid>
       <pubDate>Thu, 01 Oct 2020 00:00:00 GMT</pubDate>
       <description>
         What's underappreciated today is what the information pioneers did to the
@@ -69,8 +73,8 @@
     </item>
     <item>
       <title>The FOCUS Framework</title>
-      <link>https://rdsiteportfolio.vercel.app/posts/focus_framework.html</link>
-      <guid>https://rdsiteportfolio.vercel.app/posts/focus_framework.html</guid>
+      <link>https://delgadodev.xyz/posts/focus_framework.html</link>
+      <guid>https://delgadodev.xyz/posts/focus_framework.html</guid>
       <pubDate>Tue, 26 May 2020 00:00:00 GMT</pubDate>
       <description>
         Product market fit means satisfying a market that satisfies you.
