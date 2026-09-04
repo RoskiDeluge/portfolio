@@ -1,4 +1,16 @@
 {
   "buildCommand": null,
-  "outputDirectory": "public"
+  "outputDirectory": "public",
+  "redirects": [
+    {
+      "source": "/posts/:path*",
+      "destination": "/writing/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/work/saas/:path*",
+      "destination": "/work/projects/:path*",
+      "permanent": true
+    }
+  ]
 }
